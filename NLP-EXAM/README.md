@@ -142,8 +142,8 @@ The Naive Bayes model achieves high accuracy on the spam detection task with rea
 
 ## Author
 
-**Name:** [Your Name]  
-**Group:** [Your Group]  
+**Name:** Chawket Odeh  
+**Group:** Group A  
 **Project Type:** University NLP Mini Project
 
 ## License
